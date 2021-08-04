@@ -3,3 +3,5 @@ line2
 added from github
 local line
 
+added in bugfix
+
