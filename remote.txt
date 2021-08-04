@@ -1,4 +1,0 @@
-line1
-line2
-added from remote
-added from local
